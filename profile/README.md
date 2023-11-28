@@ -25,6 +25,15 @@
                 <sub>👑</sub>
             </a>
         </td>
+        <td>
+            <a href="https://github.com/pungrumpy-bot">
+                <img src="https://avatars.githubusercontent.com/u/151485456?v=4" width="100px;" height="auto" alt="pungrumpy-bot"/>
+                <br />
+                <sub><b>pungrumpy-bot</b></sub>
+                <br />
+                <sub>🤖</sub>
+            </a>
+        </td>
     </tr>
   </table>
 </div>
