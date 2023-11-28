@@ -1,6 +1,6 @@
 <div align="center">
   <h1><code>😈</code> Grumpy Mephisto's Organization</h1>
-  <img src=".images/banner.png" width="70%" height="auto" />
+  <img src="https://raw.githubusercontent.com/Grumpy-Mephisto/.github/main/profile/.images/banner.png" width="70%" height="auto" />
 </div>
 
 <div>
