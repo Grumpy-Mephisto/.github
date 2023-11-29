@@ -34,6 +34,15 @@
                 <sub>🤖</sub>
             </a>
         </td>
+        <td>
+          <a href="https://github.com/custapq">
+                <img src="https://avatars.githubusercontent.com/u/114871171?v=4" width="100px;" height="auto" alt="custapq"/>
+                <br />
+                <sub><b>custapq</b></sub>
+                <br />
+                <sub>🧑🏻</sub>
+          </a>
+        </td>
     </tr>
   </table>
 </div>
